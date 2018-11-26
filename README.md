@@ -1,8 +1,8 @@
-<h1>The popular band of "Bubble Tea"</h1>
+#The popular band of "Bubble Tea"
 
-<h3>Projectนี้ เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)</h3>
-<h4>ชั้นการศึกษาปีที่ 1</h4>
-<h4>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</h4>
+###Projectนี้ เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)
+####ชั้นการศึกษาปีที่ 1
+####สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 
 
