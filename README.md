@@ -1,6 +1,4 @@
 # The popular band of "Bubble Tea"
-![Image]https://static1.squarespace.com/static/562fcb20e4b086a77e8a1c2f/t/5aa1b10c24a694756098312c/1520546061172/BEST-BOBA-BUBBLE-TEA-QUEENS-FLUSHING-NYC-CYNTHIACHUNG-TEN-REN-SHINYTEA-COCO-KUNGFUTEA-0071.jpg
-Format: ![Alt text](url)
 
 ### Projectนี้ เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)
 #### ชั้นการศึกษาปีที่ 1
