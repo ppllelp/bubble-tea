@@ -1,5 +1,4 @@
 <h1>The popular band of "Bubble Tea"</h1>
-(images/display.jpg)
 
 <h2>Projectนี้ เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)</h2>
 <h3>ชั้นการศึกษาปีที่ 1</h3>
