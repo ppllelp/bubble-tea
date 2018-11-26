@@ -1,5 +1,5 @@
 # The popular band of "Bubble Tea"
-[display.jpg](https://postimg.cc/V51G1cd5)
+[![display.jpg](https://i.postimg.cc/h4QHLDn8/display.jpg)](https://postimg.cc/V51G1cd5)
 
 ### Projectนี้ เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)
 #### ชั้นการศึกษาปีที่ 1
