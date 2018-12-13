@@ -5,4 +5,6 @@ mueang = ['KOI Thé','Ochaya','Mikucha','Mr. Shake','Kamu','Coco','ATM','The all
 ax = plt.gca(xticks=x) 
 ax.set_xticklabels(mueang,rotation=10) 
 plt.bar(x,y)
+plt.bar(x,y,color='#CD5C5C')
+ax.set_facecolor('black')
 plt.show()
