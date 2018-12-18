@@ -15,6 +15,12 @@
 ## Filter Information
 โปรเจคนี้ได้ทำการคัดกรองข้อมูลด้วยภาษาทางโปรแกรมที่มีชื่อว่า Python Libraries and Modules : csv, numpy และทำการรวบรวมข้อมูลเพื่อนำเสนอทางเว็บไซต์ ซึ่งใช้ภาษาทางโปรแกรม html และ css
 
+## แหล่งข้อมูล
+-https://docs.google.com/forms/d/1Z-7zH8I5hvMUKgiXvsGQDpHZfRVmB7vDnohDL_L-Hng/edit?usp=sharing
+-https://thematter.co/rave/bubble-milk-tea-taste-1st-time/60922
+-https://www.wongnai.com/
+
+
 
 ## ผลลัพธ์
 ผลลัพธ์งานวิจัยได้ถูกแสดงไว้บนเว็บไซต์ของเรา http://www.it.kmitl.ac.th/~it61070208/mainpage.html
