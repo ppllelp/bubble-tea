@@ -24,7 +24,7 @@
 ผลลัพธ์งานวิจัยได้ถูกแสดงไว้บนเว็บไซต์ของเรา http://www.it.kmitl.ac.th/~it61070208/mainpage.html
 
 ## Video นำเสนอ
-
+https://youtu.be/M6IbRRFKl8c
 
 ## Authors
 * นางสาว วิภวภัทร หงษ์สิงห์ - 61070208 - [dame36](https://github.com/dame36)
